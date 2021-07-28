@@ -2,7 +2,7 @@
 
 *{
     box-sizing: border-box;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
 }
 
 body {
@@ -33,12 +33,24 @@ body {
 .remained{
     flex: 1;
     transition: 0.4s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1px;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 .percentage{
     background-color:rgb(59, 161, 250);
     height: 0;
     transition: 0.4s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 600;
 }
 
 .cup.cup-small{
