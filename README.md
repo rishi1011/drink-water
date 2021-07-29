@@ -21,5 +21,6 @@ A simple but a cool project to visually represent the filling of water in a cup.
 <img width="1792" alt="Screenshot 2021-07-29 at 8 35 55 PM" src="https://user-images.githubusercontent.com/47945265/127516685-1e06a9d2-d672-4cd8-8aeb-d133710c4623.png">
 
 # Design
+Color palette:
 <img width="649" alt="Screenshot 2021-07-29 at 8 59 56 PM" src="https://user-images.githubusercontent.com/47945265/127520722-0380db3c-e1e7-48c5-87a7-27f3f3df7c7d.png">
 
