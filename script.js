@@ -10,9 +10,13 @@ smallCups.forEach((cup, idx) => {
 })
 
 function highlightCup(idx) {
-    if(smallCups[idx].classList.contains("full") && !smallCups[idx + 1].classList.contains("full")){
+
+    if (smallCups[idx].classList.contains("full") && idx === smallCups.length-1) {
+        idx--;
+    }else if(smallCups[idx].classList.contains("full") && !smallCups[idx + 1].classList.contains("full")){
         idx--;
     }
+
 
     smallCups.forEach((cup, idx2) => {
         if (idx2 <= idx) {
@@ -44,4 +48,6 @@ function updateBigCup(){
         remained.style.height = "0px";
         remained.style.padding = "0px";
     }
+
+    // console.log(smallCups[smallCups.length - 1])
 }
