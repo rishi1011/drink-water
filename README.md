@@ -14,11 +14,9 @@ A simple but a cool project to visually represent the filling of water in a cup.
 
 # Mockups
 
-<img width="1792" alt="Screenshot 2021-07-29 at 8 34 20 PM" src="https://user-images.githubusercontent.com/47945265/127516460-79b4c1a8-acda-40c1-a150-09886d8da4cd.png">
-<img width="1792" alt="Screenshot 2021-07-29 at 8 34 43 PM" src="https://user-images.githubusercontent.com/47945265/127516512-097b9bf2-cccc-49c0-a8e7-ee647581d134.png">
-<img width="1792" alt="Screenshot 2021-07-29 at 8 35 00 PM" src="https://user-images.githubusercontent.com/47945265/127516560-bac7bb50-42d5-474a-87d9-3bc2cb34af96.png">
-<img width="1792" alt="Screenshot 2021-07-29 at 8 35 09 PM" src="https://user-images.githubusercontent.com/47945265/127516577-85725bc6-6ad7-40b2-beed-63160b148492.png">
-<img width="1792" alt="Screenshot 2021-07-29 at 8 35 55 PM" src="https://user-images.githubusercontent.com/47945265/127516685-1e06a9d2-d672-4cd8-8aeb-d133710c4623.png">
+<img width="1792" alt="Screenshot 2021-07-29 at 9 04 13 PM" src="https://user-images.githubusercontent.com/47945265/127521395-f167277d-9fc0-48fa-81e5-5633d6b75a97.png">
+<img width="1792" alt="Screenshot 2021-07-29 at 9 04 38 PM" src="https://user-images.githubusercontent.com/47945265/127521488-51e64569-b97e-4561-98f5-1cea5d0609fa.png">
+
 
 # Design
 Color palette:<br>
