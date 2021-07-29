@@ -29,6 +29,7 @@ function updateBigCup(){
     const totalCups = smallCups.length;
 
     if (fullCups === 0) {
+        percentage.style.height = "0px"
         percentage.style.visibility = "hidden";
     } else {
         percentage.style.visibility = "visible";
